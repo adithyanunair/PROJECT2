@@ -1,0 +1,430 @@
+/* import links */
+
+/* font links */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lilita+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Francois+One&display=swap');
+
+
+/* end */
+
+
+.mh {
+    display: flex;
+}
+
+.anchor {
+    padding-left: 1635px;
+    padding-top: 25px;
+    letter-spacing: 1px;
+}
+
+
+.material-symbols-outlined {
+    font-family: 'Material Symbols Outlined';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 35px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -webkit-font-feature-settings: 'liga';
+    -webkit-font-smoothing: antialiased;
+}
+
+.main h1 {
+
+    font-family: 'Francois One', sans-serif;
+}
+
+
+
+.main1 {
+    display: flex;
+    background-color: rgb(246, 246, 246);
+    font-family: 'Varela Round', sans-serif;
+
+
+}
+
+.main1 button {
+
+    background-color: transparent;
+    color: white;
+    border: solid 1px;
+    padding: 10px 20px;
+    margin-left: 10px;
+    background-color: blue;
+}
+
+
+
+
+.head6 {
+    padding-left: 1340px;
+
+}
+
+.head6 button {
+    margin-left: 20px;
+}
+
+
+.head6 a {
+    font-size: 15px;
+    padding-left: 20px;
+    text-decoration: none;
+    color: #000000;
+    font-family: 'Varela Round', sans-serif;
+
+}
+
+.anchortag {
+    border: black solid 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.anchortag a {
+ 
+
+    padding-left: 20px;
+    text-decoration: none;
+    color: #000000;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.image {
+    background-image: url("../images/galaxy-s23-highlights-kv.avif");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+
+.a2 {
+    display: flex;
+    padding-top: 200px;
+    font-family: 'Francois One', sans-serif;
+}
+
+.a2 h1 {
+    padding-left: 80px;
+}
+
+.b {
+    padding-top: 40px;
+    padding-left: 1200px;
+
+}
+
+.b1 {
+    position: relative;
+    display: inline-block;
+    margin: 15px;
+    padding: 15px 20px;
+    text-align: center;
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: #000000;
+    background: transparent;
+    cursor: pointer;
+    transition: ease-out 0.5s;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    box-shadow: inset 0 0 0 0 #000000;
+}
+
+button:hover {
+    color: white;
+    box-shadow: inset 0 -100px 0 0 #000000;
+}
+
+button:active {
+    transform: scale(0.9);
+}
+
+.image2 {
+    background-image: url("../images/s23\ cover.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+
+.sec2 {
+    padding-left: 150px;
+    padding-top: 80px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.a7 {
+    font-family: 'Varela Round', sans-serif;
+}
+
+.sec3 {
+
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    background-color: rgb(226, 226, 226);
+
+
+
+}
+.sec3 p{width: 15%;
+    font-size: 17px;
+padding-left: 801px;}
+
+.su {
+    display: flex;
+
+}
+
+.a6 {
+    padding-top: 120px;
+    padding-left: 60px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+
+
+}
+
+.a6 h3 {
+    font-family: 'Francois One', sans-serif;
+
+    text-align: left;
+}
+
+.a6 p {
+    width: 125%;
+    text-align: justify;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.main2 {
+    width: 800px;
+    margin: auto;
+}
+
+
+.b3 {
+    position: relative;
+    display: inline-block;
+    margin: 15px;
+    padding: 15px 20px;
+    text-align: center;
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: #000000;
+    background: transparent;
+    cursor: pointer;
+    transition: ease-out 0.5s;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    box-shadow: inset 0 0 0 0 #000000;
+}
+
+button:hover {
+    color: white;
+    box-shadow: inset 0 -100px 0 0 #000000;
+}
+
+button:active {
+    transform: scale(0.9);
+}
+
+.i1 {
+    padding-top: 40px;
+}
+
+.sec2 {
+    display: flex;
+    padding-bottom: 50px;
+    background-color: #000000;
+    color: aliceblue;
+}
+
+.a7 {
+    padding-left: 250px;
+    width: 45%;
+}
+
+
+/* page shop */
+
+
+.sh {
+    display: flex;
+}
+
+.icon {
+    padding-top: 25px;
+    padding-left:  1600px;
+}
+
+.material-symbols-outlined {
+    font-family: 'Material Symbols Outlined';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -webkit-font-feature-settings: 'liga';
+    -webkit-font-smoothing: antialiased;
+}
+
+.anchortagshop {
+ 
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.anchortagshop a {
+  
+
+    padding-left: 20px;
+    text-decoration: none;
+    color: #000000;
+    font-family: 'Varela Round', sans-serif;
+}
+
+.sale{padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 220px;
+background-color: rgb(199, 222, 162);}
+.i23{padding-top: 6px;}
+
+.sale2 p{width: 45%;}
+
+.sale3{padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 220px;
+    color: aliceblue;
+background-color: rgb(0, 0, 0);}
+.sale4 p{width: 45%;}
+
+
+
+
+/* form  section */
+
+
+.sh {
+    display: flex;
+}
+
+.symbols {
+    padding-top: 25px;
+    padding-left:  1600px;
+}
+
+.material-symbols-outlined {
+    font-family: 'Material Symbols Outlined';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -webkit-font-feature-settings: 'liga';
+    -webkit-font-smoothing: antialiased;
+}
+
+.anchortagshop {
+ 
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.anchortagshop a {
+  
+
+    padding-left: 20px;
+    text-decoration: none;
+    color: #000000;
+    font-family: 'Varela Round', sans-serif;
+}
+
+        
+.main45{padding-left: 45%;
+padding-top: 14%;}
+
+body {
+    font-family: Arial, sans-serif;
+  }
+
+  
+  table { 
+  
+    background-color: aliceblue;
+    margin: auto;
+    width: 400px;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+  }
+  
+  th {
+    text-align: left;
+  }
+  
+  .submit-btn {
+    margin-top: 10px;
+    text-align: center;
+  }
+.headt{padding-top: 170px;}
+  .headt h3{
+    font-family: 'Varela Round', sans-serif;
+    text-align: center;
+}
+
+ 
+  .subbtntab{ position: relative;
+    display: inline-block;
+    margin: 15px;
+    padding: 15px 20px;
+    text-align: center;
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: #000000;
+    background: transparent;
+    cursor: pointer;
+    transition: ease-out 0.5s;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    box-shadow: inset 0 0 0 0 #000000;
+}
+
+button:hover {
+    color: white;
+    box-shadow: inset 0 -100px 0 0 #000000;
+}
+
+button:active {
+    transform: scale(0.9);
+}
