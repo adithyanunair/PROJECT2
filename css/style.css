@@ -373,15 +373,25 @@ padding-top: 14%;}
 
 body {
     font-family: Arial, sans-serif;
+  
   }
 
   
   table { 
   
-    background-color: aliceblue;
+   color: aliceblue;
     margin: auto;
     width: 400px;
     border-collapse: collapse;
+  }
+  .image67{
+    background-image: url("../images/backgroundlogin.jpg");
+    height: 800px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
   }
   
   th, td {
@@ -398,6 +408,7 @@ body {
   }
 .headt{padding-top: 170px;}
   .headt h3{
+    color: aliceblue;
     font-family: 'Varela Round', sans-serif;
     text-align: center;
 }
